@@ -92,32 +92,6 @@ Hospify is a comprehensive healthcare platform designed to revolutionize patient
 - Google Cloud account
 - Stripe & RazorPay accounts
 
-### Installation
-
-1. Clone the repository
-   ```bash
-   git clone https://github.com/yourname/hospify.git
-   cd hospify
-   ```
-
-2. Install dependencies
-   ```bash
-   npm install
-   ```
-
-3. Set up environment variables
-   ```bash
-   cp .env.example .env
-   # Edit .env with your API keys and configurations
-   ```
-
-4. Start the development server
-   ```bash
-   npm run dev
-   ```
-
-5. Open your browser and navigate to `http://localhost:3000`
-
 ## 🌟 Key Benefits
 
 - **24/7 Healthcare Access**: Connect with healthcare providers anytime, anywhere
@@ -135,16 +109,6 @@ We welcome contributions to enhance Hospify! Please follow these steps:
 3. Commit your changes (`git commit -m 'Add some amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for more information.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📞 Contact
-
-Project Link: [https://github.com/yourname/hospify](https://github.com/yourname/hospify)
 
 ## 🙏 Acknowledgements
 
