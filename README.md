@@ -2,7 +2,7 @@
 
 ![Hospify Banner](https://github.com/user-attachments/assets/d20de650-7a0b-46f1-9ebb-5f42b03091a5)
 
-[![Watch the video](https://img.youtube.com/vi/txNV7LWprkU/0.jpg)](https://www.youtube.com/watch?v=txNV7LWprkU)
+https://www.youtube.com/watch?v=txNV7LWprkU
 
 
 ## 🚀 Overview
