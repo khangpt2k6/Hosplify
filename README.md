@@ -2,8 +2,7 @@
 
 ![Hospify Banner](https://github.com/user-attachments/assets/d20de650-7a0b-46f1-9ebb-5f42b03091a5)
 
-[![Watch the video](images/vimeo-thumbnail.png)](https://vimeo.com/1079030142/12520051ea)
-
+Video Demo: https://www.youtube.com/watch?v=txNV7LWprkU
 
 ## 🚀 Overview
 
