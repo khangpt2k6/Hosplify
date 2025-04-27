@@ -66,14 +66,58 @@ const Navbar = () => {
       ? "text-primary font-bold relative after:content-[''] after:absolute after:bottom-0 after:left-0 after:w-full after:h-0.5 after:bg-primary"
       : "";
 
+  // Navigation items with icons
+  const navItems = [
+    { 
+      path: "/", 
+      label: "HOME", 
+      icon: "M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6" 
+    },
+    { 
+      path: "/doctors", 
+      label: "DOCTORS", 
+      icon: "M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" 
+    },
+    { 
+      path: "/about", 
+      label: "ABOUT", 
+      icon: "M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" 
+    },
+    { 
+      path: "/location", 
+      label: "FIND LOCATION", 
+      icon: "M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z M15 11a3 3 0 11-6 0 3 3 0 016 0z" 
+    },
+    { 
+      path: "/my-appointments", 
+      label: "APPOINTMENT", 
+      icon: "M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" 
+    },
+    { 
+      path: "/pharmacy", 
+      label: "PHARMACY", 
+      icon: "M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" 
+    },
+    { 
+      path: "/diagnosis", 
+      label: "DIAGNOSIS", 
+      icon: "M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2" 
+    },
+    { 
+      path: "/contact", 
+      label: "CONTACT", 
+      icon: "M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" 
+    },
+  ];
+
   return (
     <motion.div
       ref={navbarRef}
       initial="initial"
       animate="animate"
       variants={navbarVariants}
-      className={`fixed top-0 left-0 right-0 z-50 py-3 transition-all duration-300 ${
-        scrolled ? "bg-white shadow-lg py-2" : "bg-white/80 backdrop-blur-sm"
+      className={`fixed top-0 left-0 right-0 z-50 py-2 transition-all duration-300 ${
+        scrolled ? "bg-white shadow-lg py-1" : "bg-white/80 backdrop-blur-sm"
       }`}
     >
       <div className="container mx-auto px-4">
@@ -82,28 +126,42 @@ const Navbar = () => {
           <motion.img
             whileHover={{ scale: 1.05 }}
             onClick={() => navigate("/")}
-            className="w-10 cursor-pointer"
+            className="w-32 h-10 object-contain cursor-pointer"
             src={assets.logo}
             alt="Logo"
           />
 
           {/* Desktop Navigation */}
-          <ul className="md:flex items-center gap-8 font-medium hidden">
-            {[
-              { path: "/", label: "HOME" },
-              { path: "/doctors", label: "DOCTORS" },
-              { path: "/about", label: "ABOUT" },
-              { path: "/contact", label: "CONTACT" },
-              { path: "/location", label: "FIND LOCATION"},
-              { path: "/my-appointments", label: "APPOINTMENT"},
-            ].map((item) => (
+          <ul className="md:flex items-center gap-6 font-medium hidden">
+            {navItems.map((item) => (
               <motion.li
                 key={item.path}
                 whileHover="hover"
                 variants={navLinkVariants}
                 className="relative py-2"
               >
-                <NavLink to={item.path} className={activeLink}>
+                <NavLink 
+                  to={item.path} 
+                  className={({ isActive }) => 
+                    `flex items-center gap-1.5 ${isActive 
+                      ? "text-primary font-bold" 
+                      : "text-gray-700 hover:text-primary"}`
+                  }
+                >
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    className="h-4 w-4"
+                    fill="none"
+                    viewBox="0 0 24 24"
+                    stroke="currentColor"
+                  >
+                    <path
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                      strokeWidth={2}
+                      d={item.icon}
+                    />
+                  </svg>
                   {item.label}
                 </NavLink>
               </motion.li>
@@ -243,7 +301,7 @@ const Navbar = () => {
                 className="fixed inset-0 bg-white z-50 md:hidden overflow-y-auto"
               >
                 <div className="flex items-center justify-between px-5 py-6 border-b">
-                  <img src={assets.logo} className="w-36" alt="" />
+                  <img src={assets.logo} className="w-28 h-8 object-contain" alt="" />
                   <motion.div
                     whileTap={{ scale: 0.9 }}
                     onClick={() => setShowMenu(false)}
@@ -273,28 +331,7 @@ const Navbar = () => {
                   )}
 
                   <ul className="flex flex-col gap-2 text-lg font-medium">
-                    {[
-                      {
-                        path: "/",
-                        label: "HOME",
-                        icon: "M10.707 2.293a1 1 0 00-1.414 0l-7 7a1 1 0 001.414 1.414L4 10.414V17a1 1 0 001 1h2a1 1 0 001-1v-2a1 1 0 011-1h2a1 1 0 011 1v2a1 1 0 001 1h2a1 1 0 001-1v-6.586l.293.293a1 1 0 001.414-1.414l-7-7z",
-                      },
-                      {
-                        path: "/doctors",
-                        label: "DOCTORS",
-                        icon: "M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-3 7h3m-3 4h3m-6-4h.01M9 16h.01",
-                      },
-                      {
-                        path: "/about",
-                        label: "ABOUT",
-                        icon: "M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z",
-                      },
-                      {
-                        path: "/contact",
-                        label: "CONTACT",
-                        icon: "M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z",
-                      },
-                    ].map((item) => (
+                    {navItems.map((item) => (
                       <NavLink
                         key={item.path}
                         onClick={() => setShowMenu(false)}

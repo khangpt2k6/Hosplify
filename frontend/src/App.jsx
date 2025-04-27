@@ -15,6 +15,7 @@ import 'react-toastify/dist/ReactToastify.css';
 import Verify from './pages/Verify'
 import GeminiChatbot from './components/GeminiChatbot'
 import HospitalFinderApp from './pages/HospitalFinderApp'
+import Diagnosis from './pages/Diagnosis'
 
 const App = () => {
   return (
@@ -33,6 +34,7 @@ const App = () => {
         <Route path='/my-profile' element={<MyProfile />} />
         <Route path='/verify' element={<Verify />} />
         <Route path='/location' element={<HospitalFinderApp />} />
+        <Route path='/diagnosis' element={<Diagnosis />} />
       </Routes>
       <GeminiChatbot />
       <Footer />

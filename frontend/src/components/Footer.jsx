@@ -7,10 +7,7 @@ const Footer = () => {
       <div className="flex flex-col sm:grid grid-cols-[3fr_1fr_1fr] gap-14 mb-12 px-6 sm:px-10">
         <div>
           <div className="flex items-center mb-5">
-            <img className="w-20 h-20 mr-3" src={assets.logo} alt="" />
-            <span className="text-7xl font-black text-transparent bg-clip-text bg-gradient-to-r from-blue-400 via-purple-500 to-pink-500 bg-[length:200%_auto] animate-explosive-glow hover:animate-pulse hover:scale-110 transition-transform duration-300">
-  Hospify
-</span>
+            <img className="w-100 h-28 mr-3" src={assets.logo} alt="" />
           </div>
         </div>
 
