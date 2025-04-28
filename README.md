@@ -20,8 +20,6 @@
 - [Tech Stack](#-tech-stack)
 - [Performance Metrics](#-performance-metrics)
 - [Development Roadmap](#-development-roadmap)
-- [Getting Started](#-getting-started)
-- [Meet the Team](#-meet-the-team)
 
 ## 🚀 Overview
 
