@@ -2,7 +2,8 @@
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/1f699316-337d-4e3a-94d9-cd1d398fdb97" alt="Hospify Logo" width="700px">
-  
+  <img src="https://github.com/user-attachments/assets/704eb14a-7e69-4775-9b8b-f5c3f097c157" alt="Hospify Logo" width="700px"> 
+
   <h3>AI-Powered Healthcare Platform Revolutionizing Patient-Doctor Interactions</h3>
   
   [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
