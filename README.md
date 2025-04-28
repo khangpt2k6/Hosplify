@@ -1,8 +1,6 @@
 # 🏥 Hospify - Intelligent Healthcare Solution
 
 ![Hospify Banner](https://github.com/user-attachments/assets/d20de650-7a0b-46f1-9ebb-5f42b03091a5)
-![Gif1](https://github.com/user-attachments/assets/7f63875b-3a06-4d12-a7fd-47c435b4e63b)
-
 
 Video Demo: https://www.youtube.com/watch?v=txNV7LWprkU
 
