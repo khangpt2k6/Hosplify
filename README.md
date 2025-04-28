@@ -43,8 +43,6 @@ Hospify is a comprehensive healthcare platform designed to revolutionize patient
 
 ## 🛠️ Technology Stack
 
-![Tech Stack](https://github.com/user-attachments/assets/e70efca1-b721-488b-a820-898247c76fe1)
-
 ### Frontend
 - **React.js** - Building interactive user interfaces
 - **TailwindCSS** - Utility-first CSS framework for rapid UI development
