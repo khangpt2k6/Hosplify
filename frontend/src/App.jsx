@@ -16,6 +16,7 @@ import Verify from './pages/Verify'
 import GeminiChatbot from './components/GeminiChatbot'
 import HospitalFinderApp from './pages/HospitalFinderApp'
 import Diagnosis from './pages/Diagnosis'
+import Pharmacy from './pages/Pharmacy'
 
 const App = () => {
   return (
@@ -35,6 +36,7 @@ const App = () => {
         <Route path='/verify' element={<Verify />} />
         <Route path='/location' element={<HospitalFinderApp />} />
         <Route path='/diagnosis' element={<Diagnosis />} />
+        <Route path='/pharmacy' element={<Pharmacy />} />
       </Routes>
       <GeminiChatbot />
       <Footer />
