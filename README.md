@@ -2,7 +2,7 @@
 
 <div align="center">
 
-    <img src="https://github.com/user-attachments/assets/56fd6844-fa6f-4194-aec9-0b1b76cef6f3" alt="Hospify Logo" width="700px"> 
+<img src="https://github.com/user-attachments/assets/56fd6844-fa6f-4194-aec9-0b1b76cef6f3" alt="Hospify Logo" width="700px"> 
 
   <img src="https://github.com/user-attachments/assets/1f699316-337d-4e3a-94d9-cd1d398fdb97" alt="Hospify Logo" width="700px">
 
