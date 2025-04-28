@@ -8,12 +8,6 @@ Video Demo: https://www.youtube.com/watch?v=txNV7LWprkU
 
 Hospify is a comprehensive healthcare platform designed to revolutionize patient-doctor interactions. By leveraging cutting-edge technologies and artificial intelligence, we provide seamless appointment booking, personalized health recommendations, and easy access to medical facilities.
 
-[![GitHub stars](https://img.shields.io/github/stars/yourname/hospify?style=social)](https://github.com/yourname/hospify)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-
-![Demo](https://github.com/user-attachments/assets/9f2ad75a-8e47-4e3a-a173-5b8c2a557ee7)
-
 ## ✨ Features
 
 - **🤖 AI-Powered Health Assistant**
