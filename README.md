@@ -13,18 +13,6 @@
   [![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)](https://stripe.com/)
 </div>
 
-## 📋 Table of Contents
-- [Overview](#-overview)
-- [Key Features](#-key-features)
-- [Tech Architecture](#-tech-architecture)
-- [System Demonstration](#-system-demonstration)
-- [Technical Implementation](#-technical-implementation)
-- [Performance Metrics](#-performance-metrics)
-- [Development Roadmap](#-development-roadmap)
-- [Getting Started](#-getting-started)
-- [API Documentation](#-api-documentation)
-- [Meet the Team](#-meet-the-team)
-
 ## 🚀 Overview
 
 Hospify is a breakthrough healthcare platform transforming the patient-doctor experience through AI-powered intelligence. Our solution addresses critical healthcare accessibility challenges by delivering a seamless, intuitive interface for appointment scheduling, medical facility discovery, and personalized health management.
