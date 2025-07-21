@@ -76,25 +76,18 @@ Built with a modern MERN stack architecture integrating Google Cloud services, a
 
 ### Patient Portal Interface
 
+#### Speciality
 <div align="center">
   <img src="https://github.com/user-attachments/assets/0142a907-1a10-420e-9a53-da72de66a75a" width="45%" alt="User Interface 1">
   <img src="https://github.com/user-attachments/assets/6db99824-3c17-4d3d-ada2-108f47ec297a" width="45%" alt="User Interface 2">
 </div>
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/e224b1bc-24ea-4671-b6c7-404260431274" width="45%" alt="User Interface 3">
-  <img src="https://github.com/user-attachments/assets/6cdfa724-bc00-4b10-8f63-9d7a21d58de9" width="45%" alt="User Interface 4">
-</div>
-
+#### Dashboard
 <div align="center">
   <img src="https://github.com/user-attachments/assets/e59fa8ec-e36b-412d-8e02-9f3e04cf4fd3" width="45%" alt="User Interface 5">
   <img src="https://github.com/user-attachments/assets/b5bdd013-d89b-40fb-b6a3-fbfc5ab8be89" width="45%" alt="User Interface 6">
 </div>
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/fc9b74fe-26d5-4aeb-83a3-2e0e8f5e7535" width="45%" alt="User Interface 7">
-  <img src="https://github.com/user-attachments/assets/35e22dbe-1d12-4d4e-960c-3d25c794e06f" width="45%" alt="User Interface 8">
-</div>
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/798bbd4d-d20d-45aa-8055-5ce79ac61339" width="45%" alt="User Interface 9">
