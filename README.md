@@ -1,4 +1,4 @@
-# 🏥 Hospify
+# Hospify
 
 <div align="center">
 
@@ -16,16 +16,7 @@
   [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
   [![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)](https://stripe.com/)
 </div>
-
-## 📋 Table of Contents
-- [Overview](#-overview)
-- [Key Features](#-key-features)
-- [System Showcase](#-system-showcase)
-- [Tech Stack](#-tech-stack)
-- [Performance Metrics](#-performance-metrics)
-- [Development Roadmap](#-development-roadmap)
-
-## 🚀 Overview
+## Overview
 
 Hospify is a breakthrough healthcare platform transforming the patient-doctor experience through AI-powered intelligence. Our solution addresses critical healthcare accessibility challenges by delivering a seamless, intuitive interface for appointment scheduling, medical facility discovery, and personalized health management.
 
@@ -37,12 +28,12 @@ Hospify is a breakthrough healthcare platform transforming the patient-doctor ex
 **Technical Achievement:**
 Built with a modern MERN stack architecture integrating Google Cloud services, advanced AI capabilities through Gemini 2.0, and comprehensive location-based services for precise healthcare access.
 
-## ✨ Key Features
+## Key Features
 
 <table>
   <tr>
     <td width="50%">
-      <h3>🤖 AI-Powered Health Assistant</h3>
+      <h3> AI-Powered Health Assistant</h3>
       <ul>
         <li>Personalized health recommendations</li>
         <li>Symptom checker and preliminary diagnosis</li>
@@ -51,7 +42,7 @@ Built with a modern MERN stack architecture integrating Google Cloud services, a
       </ul>
     </td>
     <td width="50%">
-      <h3>🔍 Medical Facility Locator</h3>
+      <h3> Medical Facility Locator</h3>
       <ul>
         <li>Find nearby hospitals, clinics, and healthcare centers</li>
         <li>Real-time availability information</li>
@@ -62,7 +53,7 @@ Built with a modern MERN stack architecture integrating Google Cloud services, a
   </tr>
   <tr>
     <td width="50%">
-      <h3>📅 Smart Appointment Management</h3>
+      <h3> Smart Appointment Management</h3>
       <ul>
         <li>Book appointments with preferred doctors</li>
         <li>Automated reminders and notifications</li>
@@ -71,7 +62,7 @@ Built with a modern MERN stack architecture integrating Google Cloud services, a
       </ul>
     </td>
     <td width="50%">
-      <h3>💳 Secure Payment Processing</h3>
+      <h3> Secure Payment Processing</h3>
       <ul>
         <li>Multiple payment options (Stripe & RazorPay)</li>
         <li>Transparent billing</li>
@@ -82,7 +73,7 @@ Built with a modern MERN stack architecture integrating Google Cloud services, a
   </tr>
 </table>
 
-## 🖥 System Showcase
+## System Showcase
 
 ### Patient Portal Interface
 
