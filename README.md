@@ -121,10 +121,6 @@ Built with a modern MERN stack architecture integrating Google Cloud services, a
   <img src="https://github.com/user-attachments/assets/63da4dfe-aecd-48af-8478-c6ee6c1e3344" width="45%" alt="User Interface 18">
 </div>
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/5035088d-5760-496d-9b49-143bc1e3b869" width="90%" alt="User Interface 19">
-</div>
-
 ### Admin Dashboard Interface
 
 <div align="center">
