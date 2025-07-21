@@ -99,14 +99,9 @@ Built with a modern MERN stack architecture integrating Google Cloud services, a
   <img src="https://github.com/user-attachments/assets/c32cd6ab-f1d9-4c7c-8fd5-4308f415b619" width="45%" alt="User Interface 13">
   <img src="https://github.com/user-attachments/assets/b928d947-2146-4720-a298-c9dec3efded3" width="45%" alt="User Interface 14">
   <img src="https://github.com/user-attachments/assets/c5f5cd71-93c0-49c2-aa98-3a1fa3c419af" width="45%" alt="User Interface 15">
-
 </div>
 
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/9259b2f7-2666-404b-a932-0dec1d682b6a" width="45%" alt="User Interface 16">
-</div>
-
+#### Profile dashboard
 <div align="center">
   <img src="https://github.com/user-attachments/assets/d64df937-a991-47b8-836c-005c77d09f68" width="45%" alt="User Interface 17">
   <img src="https://github.com/user-attachments/assets/63da4dfe-aecd-48af-8478-c6ee6c1e3344" width="45%" alt="User Interface 18">
