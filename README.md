@@ -88,9 +88,8 @@ Built with a modern MERN stack architecture integrating Google Cloud services, a
   <img src="https://github.com/user-attachments/assets/b5bdd013-d89b-40fb-b6a3-fbfc5ab8be89" width="45%" alt="User Interface 6">
 </div>
 
-
+#### Online Pharmarcy
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/798bbd4d-d20d-45aa-8055-5ce79ac61339" width="45%" alt="User Interface 9">
   <img src="https://github.com/user-attachments/assets/18f12aa1-f458-4b6b-84c1-7ca1de4072d6" width="45%" alt="User Interface 10">
 </div>
 
