@@ -93,16 +93,17 @@ Built with a modern MERN stack architecture integrating Google Cloud services, a
   <img src="https://github.com/user-attachments/assets/18f12aa1-f458-4b6b-84c1-7ca1de4072d6" width="45%" alt="User Interface 10">
 </div>
 
-#### AI-Powered Diagnosis
+#### AI-Powered Diagnosis & Chatbot
 <div align="center">
   <img src="https://github.com/user-attachments/assets/217b4a04-1fcf-4b16-9c61-11171017a489" width="45%" alt="User Interface 11">
   <img src="https://github.com/user-attachments/assets/c32cd6ab-f1d9-4c7c-8fd5-4308f415b619" width="45%" alt="User Interface 13">
   <img src="https://github.com/user-attachments/assets/b928d947-2146-4720-a298-c9dec3efded3" width="45%" alt="User Interface 14">
+  <img src="https://github.com/user-attachments/assets/c5f5cd71-93c0-49c2-aa98-3a1fa3c419af" width="45%" alt="User Interface 15">
+
 </div>
 
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/c5f5cd71-93c0-49c2-aa98-3a1fa3c419af" width="45%" alt="User Interface 15">
   <img src="https://github.com/user-attachments/assets/9259b2f7-2666-404b-a932-0dec1d682b6a" width="45%" alt="User Interface 16">
 </div>
 
