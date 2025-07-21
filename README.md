@@ -14,6 +14,7 @@
   [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
   [![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)](https://stripe.com/)
 </div>
+
 ## Overview
 
 Hospify is a breakthrough healthcare platform transforming the patient-doctor experience through AI-powered intelligence. Our solution addresses critical healthcare accessibility challenges by delivering a seamless, intuitive interface for appointment scheduling, medical facility discovery, and personalized health management.
@@ -138,7 +139,7 @@ Built with a modern MERN stack architecture integrating Google Cloud services, a
   <img src="https://github.com/user-attachments/assets/b26dc571-fded-4b50-b6ac-c503c525a4f2" width="90%" alt="Admin Dashboard 3">
 </div>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
   <table>
