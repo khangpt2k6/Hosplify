@@ -135,10 +135,6 @@ Built with a modern MERN stack architecture integrating Google Cloud services, a
   <img src="https://github.com/user-attachments/assets/7db4713f-7e68-408a-9e0f-7643d77ac120" width="90%" alt="Admin Dashboard 2">
 </div>
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/b26dc571-fded-4b50-b6ac-c503c525a4f2" width="90%" alt="Admin Dashboard 3">
-</div>
-
 ## Tech Stack
 
 <div align="center">
