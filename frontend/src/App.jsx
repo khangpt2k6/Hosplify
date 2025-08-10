@@ -34,8 +34,6 @@ const App = () => {
         <Route path='/my-appointments' element={<MyAppointments />} />
         <Route path='/my-profile' element={<MyProfile />} />
         <Route path='/verify' element={<Verify />} />
-        <Route path='/location' element={<HospitalFinderApp />} />
-        <Route path='/diagnosis' element={<Diagnosis />} />
         <Route path='/pharmacy' element={<Pharmacy />} />
       </Routes>
       <GeminiChatbot />
