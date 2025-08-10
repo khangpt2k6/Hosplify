@@ -36,7 +36,6 @@ const App = () => {
         <Route path='/verify' element={<Verify />} />
         <Route path='/pharmacy' element={<Pharmacy />} />
       </Routes>
-      <GeminiChatbot />
       <Footer />
     </div>
   )
